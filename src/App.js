@@ -3,7 +3,7 @@ function App() {
   return (
     <div className="App">
       <h1>Release Demo App</h1>
-      <button>Click Me!</button> {/* New Button */}
+      <button>Click Me! Damn it.</button> {/* New Button */}
     </div>
   );
 }
